@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rani</h1>
+<h1 align="center">Hi 👋, I'm Kartik </h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 
 - 🔭 I’m currently working on **web development**
